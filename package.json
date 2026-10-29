@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/CSE-AashrithA/fitguide_server/issues"
   },
-  "homepage": "https://github.com/CSE-AashrithA/fitguide_server#readme"
+  "homepage": "https://github.com/CSE-AashrithA/fitguide_server#readme",
+  "dependencies": {
+    "mongoose": "^9.11.4"
+  }
 }

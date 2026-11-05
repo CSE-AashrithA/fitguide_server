@@ -20,7 +20,7 @@ const storage = multer.diskStorage({
 const upload = multer({ storage: storage });
 
 app.get("/api/fitness", (req, res) => {
-    res.send([movies]);
+    res.send([guides]);
   });
   
   // listen for incoming requests
